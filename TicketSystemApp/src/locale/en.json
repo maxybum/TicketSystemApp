@@ -1,0 +1,68 @@
+{
+  "SignIn": "Sign In",
+  "UserName": "User Name",
+  "Password": "Password",
+  "LooksGood": "Looks Good.",
+  "InvalidUserName": "Your user Name must be 5-12 characters long.",
+  "InvalidPassword": "Your password must be 9-20 characters long.",
+  "Login": "Login",
+
+  "HomeWelcome": "Welcome to Reinder.eu support page",
+  "HomeDescription": "Reinder.eu ticket system allows you to create service tickets. Use it in case of any problems with our services.",
+  "HomeTickets": "Your existing service tickets",
+  "HomeSeeAllTickets": "See existing tickets",
+
+  "Tickets": "Tickets",
+  "CreateTicket": "Create Ticket",
+  "SignOut": "Sign Out",
+  "Profile": "Profile",
+  "Yourprofile": "Your profile",
+  "Language": "Language",
+  "Hi": "Hi",
+
+  "ShowClosedTickets": "Show Closed Tickets",
+
+  "TicketId": "#",
+  "TicketDetails": "Ticket Details",
+  "TicketType": "Ticket Type",
+  "TicketStatus": "Ticket Status",
+  "SenderName": "Sender Name",
+  "TicketHeader": "Ticket Header",
+  "Message": "Message",
+  "DateofReply": "Date of Reply",
+  "Type": "Type",
+  "MessageSubject": "Message Subject",
+  "Sender": "Sender",
+
+  "Reset": "Reset",
+  "Send": "Send",
+  "Back": "Back",
+  "BackReinder": "Back to reinder.eu",
+  "Success": "Success",
+  "Error": "Error",
+  "RequestWasSendedSuccessful": "Request Was Sended Successful",
+  "MoreThan20MesAlert": "Sorry, but you can send not more than 20 messages.",
+  "TicketClosedAlert": "Sorry, but you can send because current Ticket was closed.",
+
+
+  "Topic": "Topic",
+  "Subject": "Subject",
+  "Status": "Status",
+  "Date": "Date",
+  "Createnewticket": "Create new ticket",
+
+  "Company": "Company",
+  "YourProfile": "Your profile",
+  "Name": "Name",
+  "ClientName": "Client Name",
+  "Role": "Role",
+  "YourId": "Your Id",
+
+  "FooText1": "We develop custom software. Software that fits your organization. With your wishes and requirements, we can realize the most suitable and most efficient solution. Want to know more? Call us for an appointment.",
+  "FooText2": "Dutch Association of Logistics and Transport IT suppliers",
+
+  "Home": "Home",
+  "tickets": "Tickets",
+  "createTicket": "Create Ticket",
+  "ticketDetails": "Details"
+}

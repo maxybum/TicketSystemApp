@@ -1,0 +1,134 @@
+// --- BootstrapVue custom SCSS variables ---
+
+$primary: #4d82b8 !default;
+
+$info: #258ed0 !default;
+
+//custom-nav-link start btn-refresh-fixed-right
+.custom-nav-link .nav-link {
+    display: inline-block !important;
+    color: white !important;
+    line-height: 1 !important;
+    text-decoration: none !important;
+    cursor: pointer !important;
+    position: relative !important;
+}
+
+.custom-nav-link .nav-link:after {
+    background-color: white !important;
+    display: block !important;
+    content: "" !important;
+    margin-top: 7px;
+    height: 4px !important;
+    width: 0% !important;
+    left: 50% !important;
+    position: absolute !important;
+    -webkit-transition: width .3s ease-in-out !important;
+    -moz--transition: width .3s ease-in-out !important;
+    transition: width .3s ease-in-out !important;
+    -webkit-transform: translateX(-50%) !important;
+    -moz-transform: translateX(-50%) !important;
+    transform: translateX(-50%) !important;
+}
+
+.custom-nav-link .nav-link:hover:after,
+.custom-nav-link .nav-link:focus:after {
+    width: 100% !important;
+}
+//custom-nav-link end
+
+.message-left {
+    border-radius: 0 0.25rem !important;
+}
+
+.message-left:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 16px solid rgba(0, 0, 0, 0.125);
+    border-left: 16px solid transparent;
+    border-right: 0px solid transparent;
+    top: -1px;
+    left: -17px;
+}
+
+.message-left:after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 15px solid #f8f9fa;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    top: 0;
+    left: -15px;
+}
+
+.message-right {
+    border-radius: 0.25rem 0.25rem 0 !important;
+}
+
+.message-right:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-bottom: 16px solid rgba(0, 0, 0, 0.125);
+    border-left: 0px solid transparent;
+    border-right: 16px solid transparent;
+    bottom: -1px;
+    right: -17px;
+}
+
+.message-right:after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-bottom: 15px solid #f8f9fa;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    bottom: 0;
+    right: -15px;
+}
+
+.message-timestamp-right {
+    position: absolute;
+    font-size: .85em;
+    font-weight: 300;
+    bottom: 5px;
+    right: 10px;
+}
+
+.message-timestamp-left {
+    position: absolute;
+    font-size: .85em;
+    font-weight: 300;
+    bottom: 5px;
+    left: 10px;
+}
+
+.name-stamp-left {
+    position: absolute;
+    font-weight: 300;
+    top: 5px;
+    left: 10px;
+}
+
+.name-stamp-right {
+    position: absolute;
+    font-weight: 300;
+    top: 5px;
+    right: 10px;
+}
+
+.badge-right
+{
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    z-index: 1;
+}
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';

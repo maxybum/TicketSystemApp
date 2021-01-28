@@ -1,0 +1,67 @@
+{
+  "SignIn": "Log in",
+  "UserName": "Gebruikersnaam",
+  "Password": "Wachtwoord",
+  "LooksGood": "Ziet er goed uit",
+  "InvalidUserName": "Uw gebruikersnaam moet 5-12 tekens lang zijn.",
+  "InvalidPassword": "Uw wachtwoord moet 9-20 tekens lang zijn.",
+  "Login": "Log in",
+
+  "HomeWelcome": "Welkom op de ondersteuningspagina van Reinder.eu",
+  "HomeDescription": "Met het ticketsysteem van Reinder.eu kunt u servicetickets maken. Gebruik het in geval van problemen met onze diensten.",
+  "HomeTickets": "Uw bestaande servicetickets",
+  "HomeSeeAllTickets": "Zie bestaande tickets",
+
+  "Tickets": "Kaartjes",
+  "CreateTicket": "Maak een ticket aan",
+  "SignOut": "Afmelden",
+  "Profile": "Profiel",
+  "Yourprofile": "Jouw profiel",
+  "Language": "Taal",
+  "Hi": "Hoi",
+
+  "ShowClosedTickets": "Toon gesloten tickets",
+
+  "TicketId": "#",
+  "TicketDetails": "Ticketgegevens",
+  "TicketType": "Tickettype",
+  "TicketStatus": "Ticketstatus",
+  "SenderName": "Naam afzender",
+  "TicketHeader": "Ticket koptekst",
+  "Message": "Bericht",
+  "DateofReply": "Datum van antwoord",
+  "Type": "Type",
+  "MessageSubject": "Bericht Onderwerp",
+  "Afzender": "Afzender",
+
+  "Reset": "Reset",
+  "Send": "Sturen",
+  "Back": "Terug",
+  "BackReinder": "Terug naar reinder.eu",
+  "Success": "Success",
+  "Error": "Fout",
+  "RequestWasSendedSuccessful": "Verzoek is succesvol verzonden",
+  "MoreThan20MesAlert": "Sorry, maar je kunt niet meer dan 20 berichten verzenden.",
+  "TicketClosedAlert": "Sorry, maar je kunt verzenden omdat het huidige ticket is gesloten.",
+
+  "Topic": "Onderwerp",
+  "Subject": "Onderwerpen",
+  "Status": "Toestand",
+  "Date": "Datum",
+  "Createnewticket": "Maak een nieuw ticket aan",
+
+  "Company": "Bedrijf",
+  "YourProfile": "Jouw profiel",
+  "Name": "Naam",
+  "ClientName": "Klantnaam",
+  "Role": "Rol",
+  "YourId": "Jouw Id",
+
+  "FooText1": "Wij ontwikkelen maatwerksoftware. Software die aansluit bij jouw organisatie. Met jouw wensen en eisen, kunnen wij de best passende en meest effici?nte oplossing realiseren. Meer weten? Bel ons voor een afspraak.",
+  "FooText2": "Dutch Association of Logistics and Transport IT suppliers",
+
+  "Home": "Huis",
+  "tickets": "Kaartjes",
+  "createTicket": "Maak een ticket aan",
+  "ticketDetails": "Details"
+}

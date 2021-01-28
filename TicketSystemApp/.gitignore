@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.vs/
+obj/
+bin/
+dist/
+db.json
+*.log
+node_modules/
+.deploy*/
+src/_drafts
+package-lock.json
